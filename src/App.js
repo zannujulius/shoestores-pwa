@@ -27,10 +27,8 @@ function App() {
             marginTop: "100px",
           }}
         >
-          <div className="hero-title">change the tangentory</div>
-          <div className="hero-caption">
-            define your way forward with huarache
-          </div>
+          <div className="hero-title">the Bold Walk</div>
+          <div className="hero-caption">define your way foward</div>
           <div className="hero-btn">
             <div>Shop</div>
           </div>

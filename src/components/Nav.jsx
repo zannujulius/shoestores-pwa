@@ -26,7 +26,7 @@ const Nav = () => {
   return (
     <>
       <div className="nav">
-        <div className="nav-brand">Nike</div>
+        <div className="nav-brand">Feets</div>
         <div className="nav-items">
           {data.map((e, index) => (
             <div className="nav-link__cover" key={index}>
