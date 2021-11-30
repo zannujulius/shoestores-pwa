@@ -61,7 +61,7 @@ const Nav = () => {
         onClick={() => setMenuState(false)}
       >
         {data.map((e, index) => (
-          <div className="mobile-link__cover">
+          <div className="mobile-link__cover" key={index}>
             <a href="" className="mobile-links">
               {e.name}
             </a>

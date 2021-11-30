@@ -47,9 +47,9 @@ function App() {
           <div className="new-cover">
             <div className="new-item__scroll">
               {[1, 2, 3, 4, 5, 6].map((e, index) => (
-                <div className="new-item">
+                <div className="new-item" key={index}>
                   <div className="new-item__image">
-                    <img src={nike} alt="" lazy />
+                    <img src={nike} alt="" />
                   </div>
                   <div className="new-item__details">
                     <div className="new-item__left">
@@ -83,7 +83,7 @@ function App() {
 
         <div className="gallery">
           {[1, 2, 3, 4, 5, 6].map((e, index) => (
-            <div className="gallery-item">
+            <div className="gallery-item" key={index}>
               <div className="gallery-image">
                 <div
                   style={{
@@ -95,7 +95,7 @@ function App() {
                     justifyContent: "center",
                   }}
                 >
-                  <img src={usain} alt="usain shoes" lazy />
+                  <img src={usain} alt="usain shoes" />
                 </div>
               </div>
               <div className="gallery__details">
