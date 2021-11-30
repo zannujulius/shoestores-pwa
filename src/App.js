@@ -53,11 +53,11 @@ function App() {
                   </div>
                   <div className="new-item__details">
                     <div className="new-item__left">
-                      <div className="new-item__name">Nike Air Huarache</div>
+                      <div className="new-item__name">Nike Air XRPlus</div>
                       <div className="new-item__title">Men's Shoes</div>
                     </div>
                     <div className="new-item__right">
-                      <div className="new-item__price">R2343,35</div>
+                      <div className="new-item__price">N23,455.99</div>
                     </div>
                   </div>
                 </div>
@@ -72,10 +72,8 @@ function App() {
             marginTop: "20px",
           }}
         >
-          <div className="hero-title">change the tangentory</div>
-          <div className="hero-caption">
-            define your way forward with huarache
-          </div>
+          <div className="hero-title">Just Sneak IT</div>
+          <div className="hero-caption">define your path</div>
           <div className="hero-btn">
             <div>Shop</div>
           </div>
@@ -100,11 +98,11 @@ function App() {
               </div>
               <div className="gallery__details">
                 <div className="gallery__left">
-                  <div className="gallery__name">Nike Air Huarache</div>
+                  <div className="gallery__name">Nike Air XRPlus</div>
                   <div className="gallery__title">Men's Shoes</div>
                 </div>
                 <div className="gallery__right">
-                  <div className="gallery__price">R2343,35</div>
+                  <div className="gallery__price">N23,455.99</div>
                 </div>
               </div>
             </div>
