@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/shoestores-pwa/static/css/main.204e76f1.chunk.css",
-    "main.js": "/shoestores-pwa/static/js/main.0c992250.chunk.js",
-    "main.js.map": "/shoestores-pwa/static/js/main.0c992250.chunk.js.map",
+    "main.js": "/shoestores-pwa/static/js/main.75101fb0.chunk.js",
+    "main.js.map": "/shoestores-pwa/static/js/main.75101fb0.chunk.js.map",
     "runtime-main.js": "/shoestores-pwa/static/js/runtime-main.6349a3e4.js",
     "runtime-main.js.map": "/shoestores-pwa/static/js/runtime-main.6349a3e4.js.map",
-    "static/js/2.2c0ab083.chunk.js": "/shoestores-pwa/static/js/2.2c0ab083.chunk.js",
-    "static/js/2.2c0ab083.chunk.js.map": "/shoestores-pwa/static/js/2.2c0ab083.chunk.js.map",
+    "static/js/2.096f0680.chunk.js": "/shoestores-pwa/static/js/2.096f0680.chunk.js",
+    "static/js/2.096f0680.chunk.js.map": "/shoestores-pwa/static/js/2.096f0680.chunk.js.map",
     "static/js/3.996633c5.chunk.js": "/shoestores-pwa/static/js/3.996633c5.chunk.js",
     "static/js/3.996633c5.chunk.js.map": "/shoestores-pwa/static/js/3.996633c5.chunk.js.map",
     "index.html": "/shoestores-pwa/index.html",
     "service-worker.js": "/shoestores-pwa/service-worker.js",
     "service-worker.js.map": "/shoestores-pwa/service-worker.js.map",
     "static/css/main.204e76f1.chunk.css.map": "/shoestores-pwa/static/css/main.204e76f1.chunk.css.map",
-    "static/js/2.2c0ab083.chunk.js.LICENSE.txt": "/shoestores-pwa/static/js/2.2c0ab083.chunk.js.LICENSE.txt",
+    "static/js/2.096f0680.chunk.js.LICENSE.txt": "/shoestores-pwa/static/js/2.096f0680.chunk.js.LICENSE.txt",
     "static/media/nike.71a6a751.png": "/shoestores-pwa/static/media/nike.71a6a751.png",
     "static/media/usain.b6bb4122.png": "/shoestores-pwa/static/media/usain.b6bb4122.png"
   },
   "entrypoints": [
     "static/js/runtime-main.6349a3e4.js",
-    "static/js/2.2c0ab083.chunk.js",
+    "static/js/2.096f0680.chunk.js",
     "static/css/main.204e76f1.chunk.css",
-    "static/js/main.0c992250.chunk.js"
+    "static/js/main.75101fb0.chunk.js"
   ]
 }
